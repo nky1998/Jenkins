@@ -1,0 +1,7 @@
+21:39:42.998 [main] INFO  Academy.E2Eproject.validatetitle - Driver is initialized
+21:39:48.213 [main] INFO  Academy.E2Eproject.validatetitle - Navigated to homepage
+21:39:48.278 [main] INFO  Academy.E2Eproject.validatetitle - Successfully validated title
+21:39:58.822 [main] INFO  Academy.E2Eproject.Homepage - Restricted user
+21:40:00.391 [main] INFO  Academy.E2Eproject.Homepage - Non restricted user
+23:25:50.668 [main] DEBUG Academy.E2Eproject.validatenavbar - Navigation bar is displayed
+23:25:58.766 [main] INFO  Academy.E2Eproject.validatetitle - Driver is initialized

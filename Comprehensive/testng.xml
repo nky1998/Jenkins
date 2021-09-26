@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Academy.E2Eproject.listeners"/>
+		<listener class-name="resources.ExtentReporterNG"/>
+	</listeners>
+  <test name="Title">
+    <classes>
+      <class name="Academy.E2Eproject.validatetitle"/>
+      </classes>
+    </test>
+    <test name="Help">
+    <classes>
+      <class name="Academy.E2Eproject.Help"/>
+      </classes>
+    </test>
+    <test name="Stores">
+    <classes>
+      <class name="Academy.E2Eproject.Stores"/>
+      </classes>
+    </test>
+    <test name="Bulk">
+    <classes>
+      <class name="Academy.E2Eproject.Bulk"/>
+      </classes>
+    </test>
+    <test name="Gift">
+    <classes>
+      <class name="Academy.E2Eproject.Gift"/>
+      </classes>
+    </test>
+    <test name="Sale">
+    <classes>
+      <class name="Academy.E2Eproject.Sale"/>
+      </classes>
+    </test>
+    <test name="Bar">
+    <classes>
+      <class name="Academy.E2Eproject.Bar"/>
+      </classes>
+    </test>
+    <test name="About">
+    <classes>
+      <class name="Academy.E2Eproject.About"/>
+      </classes>
+    </test>
+    <test name="Search">
+    <classes>
+      <class name="Academy.E2Eproject.Search"/>
+      </classes>
+    </test>
+    <test name="Customer_stories">
+    <classes>
+      <class name="Academy.E2Eproject.CustomerStory"/>
+      </classes>
+    </test>
+</suite> <!-- Suite -->

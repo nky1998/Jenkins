@@ -1,0 +1,6 @@
+23:13:36.568 [main] INFO  Academy.E2Eproject.validatetitle - Click On Storage
+23:13:38.232 [main] INFO  Academy.E2Eproject.validatetitle - Click On Bar Cabinets
+23:13:38.699 [main] INFO  Academy.E2Eproject.validatetitle - Mark Checkbox
+23:13:45.444 [main] INFO  Academy.E2Eproject.validatetitle - Driver is initialized
+23:13:47.251 [main] INFO  Academy.E2Eproject.validatetitle - Navigated to homepage of Urban Ladder
+23:13:48.467 [main] INFO  Academy.E2Eproject.validatetitle - Click On About Us in footer
